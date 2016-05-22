@@ -28,8 +28,8 @@ variations can be found at:
 http://www.partow.net/programming/tcpproxy/index.html
 
 Code repository:
-(1) http://http://code.google.com/p/tcpproxy-variations/
-(2) svn checkout http://tcpproxy-variations.googlecode.com/svn/trunk/ tcpproxy-variations
+https://github.com/ArashPartow/tcpproxy-variations
+
 
 
 [COMPILATION]
@@ -42,7 +42,6 @@ Code repository:
 (*) Intel® C++ Compiler (9.x+)
 (*) Clang/LLVM (1.1+)
 (*) Microsoft Visual Studio C++ Compiler (8.1+)
-(*) Comeau C++ Compiler (4.3+)
 
 
 [FILES]
