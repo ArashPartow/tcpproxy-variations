@@ -16,10 +16,9 @@ are as follows:
 
 [COPYRIGHT NOTICE]
 Free use of the C++ TCP Proxy Server variations is permitted under the
-guidelines and  in accordance  with the  most current  version of  the
-Common Public License.
+guidelines and  in accordance  with the MIT License.
 
-http://www.opensource.org/licenses/cpl1.0.php
+http://www.opensource.org/licenses/MIT
 
 
 [DOWNLOADS & UPDATES]
